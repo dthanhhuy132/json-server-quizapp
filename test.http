@@ -1,0 +1,15 @@
+# @name getQuestion
+GET http://localhost:3000/api/questions/2
+
+###
+
+# @name addNewUser
+POST http://localhost:300/api/users
+Content-Type: application/json
+
+{
+  "name": "Kiet",
+  "mark": [
+    0,1,0
+  ]
+}
