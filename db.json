@@ -57,21 +57,5 @@
     }
   ],
 
-  "users": [
-    {
-      "id": 1,
-      "name": "Huy",
-      "mark": 100
-    },
-    {
-      "id": 2,
-      "name": "Hoang",
-      "mark": 1
-    },
-    {
-      "id": 3,
-      "name": "Truc",
-      "mark": 1
-    }
-  ]
+  "users": []
 }
