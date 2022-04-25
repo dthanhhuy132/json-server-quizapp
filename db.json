@@ -61,17 +61,17 @@
     {
       "id": 1,
       "name": "Huy",
-      "mark": [1, 2, 4]
+      "mark": 100
     },
     {
       "id": 2,
       "name": "Hoang",
-      "mark": [0, 0, 0]
+      "mark": 1
     },
     {
       "id": 3,
       "name": "Truc",
-      "mark": [1, 0, 0]
+      "mark": 1
     }
   ]
 }
