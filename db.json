@@ -57,6 +57,31 @@
     }
   ],
 
-  "users": [],
+  "users": [
+    {
+      "userName": "Quy mỉnh đãi",
+      "userEmail": "ahihi@gmail.com",
+      "score": 100,
+      "createdAt": 1650903972053,
+      "updatedAt": 1650903972053,
+      "id": 1
+    },
+    {
+      "userName": "Hoàng không học bài",
+      "userEmail": "ahihi@gmail.com",
+      "score": 1,
+      "createdAt": 1650903972053,
+      "updatedAt": 1650903972053,
+      "id": 1
+    },
+    {
+      "userName": "Trực hong làm bài",
+      "userEmail": "ahihi@gmail.com",
+      "score": 0,
+      "createdAt": 1650903972053,
+      "updatedAt": 1650903972053,
+      "id": 1
+    }
+  ],
   "feedbacks": []
 }
