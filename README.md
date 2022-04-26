@@ -10,3 +10,5 @@
 
 - try to add more tiem
 - try more
+
+- add git
