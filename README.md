@@ -5,4 +5,4 @@
 # Run app by: npm start
 
 - build limit ? why
-- server litmit 1
+- server litmit
